@@ -39,3 +39,7 @@ https://github.com/typicode/json-server
 
 Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
 
+
+
+cdnjs uuid --> libreria generar id =>   https://cdnjs.com/libraries/uuid/8.3.2
+
